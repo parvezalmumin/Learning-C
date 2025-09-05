@@ -1,0 +1,25 @@
+___________________________________________________________________
+| #include <stdio.h>   // header file (for input/output)           |
+| int main() {         // main function (execution starts here)    |
+|    printf("Hello, World!\n");  // print text                     |
+|    return 0;        // end program                               |
+| }                                                                |   
+|__________________________________________________________________|
+
+-) Breaking it down:
+
+   #include <stdio.h>
+                       This tells the compiler to include the Standard Input Output library.
+                       Needed for functions like printf() and scanf().
+
+   int main()
+                       Every C program must have a main() function.
+                       Program execution starts here.
+                       int means the function returns an integer value.
+
+  printf("Hello, World!\n");
+                       Used to display output on the screen.
+                      \n means new line.
+
+return 0;
+                    Tells the operating system that the program finished successfully.
