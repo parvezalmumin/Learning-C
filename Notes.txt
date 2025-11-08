@@ -69,13 +69,22 @@ Variables in C
 
 
  #    Division in Float
+                        - If both numbers are integers → result is integer division.
 
-                 - If both numbers are integers → result is integer division.
-
-                 - If at least one number is float → result is float division.
+                        - If at least one number is float → result is float division.
 
                           -  Example:
-
                                       5 / 2 = 2 (integer division)
+                                      5.0 / 2 = 2.5 (float division)            
 
-                                      5.0 / 2 = 2.5 (float division)                                                               
+
+# Arithmetic Operation in Float
+                                 - Works the same as integers, but results include decimals.
+
+                                         Example:
+                                                   float a = 5.5, b = 2.0;
+                                                   a / b = 2.75
+                                                   a + b = 7.5
+
+
+                                                   
