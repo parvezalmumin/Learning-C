@@ -36,3 +36,20 @@ Variables in C
   -Syntax: data_type variable_name = value;
    Example: int age = 20;
   -The value of a variable can change during program execution.
+
+
+ # Arithmetic Operations in C
+
+                   Used to perform mathematical calculations.
+
+                                           Basic operators:
+
+                                                           + (Addition)
+
+                                                           - (Subtraction)
+
+                                                           * (Multiplication)
+
+                                                           / (Division)
+
+                                                           % (Modulo – gives remainder)
