@@ -126,4 +126,14 @@ Variables in C
 
                                          +, - → Addition, Subtraction
 
-                                         When operators have the same precedence, left to right associativity is followed.                                               
+                                         When operators have the same precedence, left to right associativity is followed.    
+ 
+# Char Data Type
+
+                    - Used to store single characters (letters, digits, or symbols).
+
+                   - Example: char ch = 'A';
+
+                   - Each character has an ASCII value (like 'A' = 65).
+
+                   - Takes 1 byte of memory.
