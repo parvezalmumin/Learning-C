@@ -105,3 +105,14 @@ Variables in C
 
                                  %c → char 
                                      
+
+
+ #   Modulo Operator in C
+
+                      Symbol: %
+
+                      Gives remainder after division of two integers.
+
+                      Example: 10 % 3 = 1
+
+                      Works only with integers.                                  
