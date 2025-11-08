@@ -53,3 +53,16 @@ Variables in C
                                                            / (Division)
 
                                                            % (Modulo – gives remainder)
+
+
+
+
+ #  Float Data Type
+
+             - Used to store decimal (fractional) numbers.
+
+             - Example: float price = 12.5;
+
+             - Takes 4 bytes of memory (on most systems).
+
+             - Used when precision is needed in calculations.                                                         
