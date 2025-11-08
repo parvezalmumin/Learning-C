@@ -65,4 +65,17 @@ Variables in C
 
              - Takes 4 bytes of memory (on most systems).
 
-             - Used when precision is needed in calculations.                                                         
+             - Used when precision is needed in calculations.   
+
+
+ #    Division in Float
+
+                 - If both numbers are integers → result is integer division.
+
+                 - If at least one number is float → result is float division.
+
+                          -  Example:
+
+                                      5 / 2 = 2 (integer division)
+
+                                      5.0 / 2 = 2.5 (float division)                                                               
