@@ -87,4 +87,21 @@ Variables in C
                                                    a + b = 7.5
 
 
-                                                   
+
+ #  Input in C
+
+               Data is taken from the user using scanf().
+
+               Syntax:    
+               ____________________________________________
+               |                                           |
+               |         scanf("%d", &variable);           |
+               |___________________________________________|
+
+               Format specifiers:
+                                 %d → int
+
+                                 %f → float
+
+                                 %c → char 
+                                     
