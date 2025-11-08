@@ -32,10 +32,7 @@ return 0;
 #
 Variables in C
 
-A variable is a named memory location used to store data.
-
-Syntax: data_type variable_name = value;
-
-Example: int age = 20;
-
-The value of a variable can change during program execution.
+  - A variable is a named memory location used to store data. 
+  -Syntax: data_type variable_name = value;
+   Example: int age = 20;
+  -The value of a variable can change during program execution.
