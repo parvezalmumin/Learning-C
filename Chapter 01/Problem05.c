@@ -8,5 +8,4 @@ int main(){
     si = (p*r*t)/100;
     printf("Simple Interest = %f", si);
     return 0;
-
 }
