@@ -5,10 +5,10 @@ int main(){
     printf("Enter a number: ");
     scanf("%d", &n);
 
-    if(n%5==0 && n%3==0){
-        printf("It is a three digit number");
+    if(n % 5 == 0 && n % 3 == 0){
+        printf("The number is divisible by 5 and 3");
     }
     else{
-        printf("It is not a three digit number");
+        printf("The number is not divisible by 5 and 3");
     }
 }
